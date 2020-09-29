@@ -11,6 +11,10 @@
 // $title-color: #ff0000;
 @import "~bulma/bulma.sass";
 
+body {
+    background: hsl(0, 0%, 21%);
+}
+
 textarea.bullets{
 
     height: 200px;
